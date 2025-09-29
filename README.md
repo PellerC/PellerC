@@ -1,16 +1,26 @@
-## Hi there 👋
+Hey! Nice to see yo 👋
+Welcome to my page!
+I'm Peller (Newbie), A Vibe-coder and a Graphics Designer.
 
-<!--
-**PellerC/PellerC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Things I code with
+Lovable, v0, Figma.
 
-Here are some ideas to get you started:
+My latest posts
+@intuition Fun Airdrop Checker
+https://intuitionfunchecker.vercel.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@intuition PFP
+https://intuitionpfp.vercel.app/
+
+@anoma Domain
+https://anomadomain.vercel.app/
+
+@IRYS ID Card 
+https://irysid.vercel.app/
+
+@Anoma PFP
+https://anomapfp.vercel.app/
+
+Where to find me
+Github - https://github.com/PellerC
+Twitter - https://x.com/
