@@ -23,4 +23,5 @@ https://anomapfp.vercel.app/
 
 Where to find me
 Github - https://github.com/PellerC
-Twitter - https://x.com/
+
+Twitter - https://x.com/NewbieXBT
